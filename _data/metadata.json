@@ -1,5 +1,5 @@
 {
-  "title": "achterbahnreporter",
+  "title": "My Blog",
   "url": "https://example.com/",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
@@ -13,7 +13,7 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Eike Kewitz",
+    "name": "Author Name",
     "email": "youremailaddress@example.com",
     "url": "https://example.com/about-me/"
   }
