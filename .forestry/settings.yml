@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
+- type: document
+  path: _data/metadata.json
+  label: Metadata
+  match: "**/*"
 - type: directory
   path: posts
   label: Posts
