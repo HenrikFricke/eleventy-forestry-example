@@ -16,6 +16,9 @@ fields:
   label: layout
   hidden: true
   default: layouts/post.njk
+- name: published
+  type: boolean
+  label: Published
 pages:
 - posts/dafnlgnlngrl.md
 - posts/g-lg-ll-ed.md
