@@ -17,5 +17,6 @@ fields:
   hidden: true
   default: layouts/post.njk
 pages:
+- posts/dafnlgnlngrl.md
 - posts/g-lg-ll-ed.md
 - posts/test.md
